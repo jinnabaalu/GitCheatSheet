@@ -1,5 +1,7 @@
 # Git Cheat Sheet
 
+![Components of Cassandra](./images/git-logo.png)
+
 ## Clone the existing repositoty
 
 ```bash

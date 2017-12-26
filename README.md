@@ -17,19 +17,19 @@ git init
 
 ## Local Changes
 
-### Changed files in your working repo
+##### Changed files in your working repo
 
 ```bash
 git status
 ```
 
-### Chnages in tracked files
+##### Chnages in tracked files
 
 ```bash
 git status
 ```
 
-### Add all current changes 
+##### Add all current changes 
 
 ```bash
 git add --all
@@ -41,7 +41,7 @@ OR
 git add .
 ```
 
-### commit all local changes in tracked files
+##### commit all local changes in tracked files
 
 ```bash
 git commit -am "my commit message"
@@ -52,13 +52,13 @@ git commit -am "my commit message"
 
 ## Commit History
 
-### Show all commits, starting with the newest
+##### Show all commits, starting with the newest
 
 ```bash
 git log
 ```
 
-### Commit history of specific file
+##### Commit history of specific file
 
 ```bash
 git log -p <file_name>
@@ -67,7 +67,7 @@ git log -p <file_name>
 git log -p README.md
 ```
 
-### Commit hitory by user
+##### Commit hitory by user
 
 ```bash
 git blame <file_name>

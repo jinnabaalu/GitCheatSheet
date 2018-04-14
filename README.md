@@ -156,4 +156,64 @@ git push -u origin jinnabalu/myNewBranchName
 
 ## GIT MERGE
 
-## GIT UNDO
+Merging changes from feature_branch to develop
+
+1. Get latest from develop and merge to feature_branch
+
+```bash
+git checkout develop
+
+git pull
+
+git checkout feature_branch 
+
+git merge --no-ff origin develop
+```
+
+**Note : To be safe from conflict with develop(GOOD PRACTICE), we will resolve in feature_branch**
+
+2. Merge feature_branch to develop
+
+```bash
+git checkout develop 
+
+git merge --no-ff origin feature_branch 
+```
+
+# Git for Project Lead/Manager
+
+1. Get count of branches
+
+```bash
+git branch -a | wc -l
+```
+
+2. Get the commits from individual
+
+```bash
+git shortlog -s -n --all
+
+#OR
+
+git shortlog -s -n
+```
+
+3. Get count the commits for the branch we are in
+
+```bash
+git rev-list --count HEAD
+
+#OR
+
+git log --pretty=oneline | wc -l
+
+#OR
+
+git rev-list --count <BRANCH_NAME>
+```
+
+4. List of branches
+
+```bash
+git branch -a
+```

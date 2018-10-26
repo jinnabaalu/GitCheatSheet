@@ -203,6 +203,22 @@ git reset <commit_hash> --mixed
 git reset <commit_hash> --hard
 ```
 
+## GIT REVERT
+
+revert: inverse the changes from history and create a new commit 
+
+```bash
+git revert <commit-hash>
+```
+
+## GIT REBASE
+
+rebase: re-write history commits in a different place
+
+```bash
+git rebase <commit-hash>
+```
+
 # Git for Project Lead/Manager
 
 1. Get count of branches

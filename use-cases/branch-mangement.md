@@ -14,10 +14,8 @@ git checkout -b JinnaBalu/Sample
 
 JinnaBalu/Sample - branch name, choose as you like
 
-**Good practice to follow some Naming Convension to create branch name but not mandatory**
-
-**JinnaBalu is github user name and JinnaBalu/Sample is branch name**
-
+> NOTE : Good practice to follow some Naming Convention to create branch name but not mandatory
+> JinnaBalu is github user name and JinnaBalu/Sample is branch name**
 
 #### **Step 2** -  As you done with some changes to the code, follow
 

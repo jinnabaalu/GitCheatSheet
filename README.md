@@ -9,8 +9,9 @@
 - [git push with ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md#setup-git-push-with-ssh)
 - [push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)
 - [create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)
+[- branch management]()
 - [common git commands](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/commonly-used-commands.md#common-commands-using-git)
-- [delete commits]()
+- [delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)
 
 ## GIT MERGE
 

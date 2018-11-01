@@ -6,7 +6,8 @@
 
 - [home](https://github.com/JinnaBalu/GitCheatSheet#clone-the-existing-repositoty)
 - [git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md#git-init)
-- [Git push with ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md#setup-git-push-with-ssh)
+- [git push with ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md#setup-git-push-with-ssh)
+- [push local changes to repository]()
 
 ## Local Changes
 

@@ -44,3 +44,7 @@ root
 ## branch
 
 - A deprecated way to store shorthands to be used to specify a URL to git fetch, git pull and git push. This mechanism is legacy and not likely to be found in modern repositories. Simplyfying it like no use of it in modern repositories.
+
+## config
+ 
+- 

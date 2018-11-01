@@ -70,6 +70,8 @@ Hi JinnaBalu! You've successfully authenticated, but GitHub does not provide she
 
 - Copy the url from the ![clone repository](../images/clone_repo.png) button with ssh
 
+- Copy Clone with ssh URL - Clock *Use SSH* as in first screenshot
+
 ![click_use_ssh](../images/click_use_ssh.png) ![copy_ssh_url](../images/copy_ssh_url.png)
 
 ```bash

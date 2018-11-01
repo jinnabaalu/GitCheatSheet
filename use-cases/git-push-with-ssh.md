@@ -36,7 +36,7 @@ The key's randomart image is:
 
 ## Github SSH connection setup
 
-### Copy the ssh from local machine
+### 1. Copy the ssh from local machine
 
 ```bash
  cat /home/ubuntu/.ssh/github_rsa.pub
@@ -45,15 +45,15 @@ The key's randomart image is:
 > O/P
 > ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/iLoHDq+6Bz5m5ED1TezxtCeW4U7eZueEqFX2eMo/BRQLVLzIMP7YyiYBR0xX57MgQ4cVodJV8pM0PYrSGSI1lQ5POSMrY4RDrH+KCVbLpifZAjaI94IKJtjnRm9eynk11g9DCg3z+OlxXmBBs1AO/zzqBXBoekfU753bD4u1yhycHiq6Iis9B2FHbV1Yov9ofswnZxh/xX7gXghLo4bdjpwfgDCRlUl4VUf7AeMY3ACwYsiEs1P6R0d1SUITgkP8D6pjmaxbroWLex43wkUxuS+nKJ9/kw7AmWnupBrUi0gfYzNwJI55vkOyhCF7 ********@outlook.com
 
-### Go to github [account settings](https://github.com/settings/keys) page
+### 2. Go to github [account settings](https://github.com/settings/keys) page
 
 [![Github Settings](../images/git_settings_ssh_keys.png)](https://github.com/settings/keys)
 
-### Click on [![New SSH key](../images/new_ssh_key.png)](https://github.com/settings/ssh/new)
+### 3. Click on [![New SSH key](../images/new_ssh_key.png)](https://github.com/settings/ssh/new)
 
-### Add title and paste the copied ssh key from the local
+### 4. Add title and paste the copied ssh key from the local
 
-### Test SSH
+### 5. Test SSH
 
 ```bash
 ssh -T git@github.com
@@ -66,7 +66,7 @@ Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
 Hi JinnaBalu! You've successfully authenticated, but GitHub does not provide shell access.
 
-### Update the Remote URL of the repository with the ssh url in place of https
+### 6. Update the Remote URL of the repository with the ssh url in place of https
 
 - Copy the url from the ![clone repository](../images/clone_repo.png) button with ssh
 
@@ -78,7 +78,7 @@ Hi JinnaBalu! You've successfully authenticated, but GitHub does not provide she
  git remote set-url origin git@github.com:JinnaBalu/GitCheatSheet.git
 ```
 
-### Test pushing with ssh
+### 7. Test pushing with ssh
 
 ```bash
 git add --all
@@ -87,3 +87,5 @@ git commit -am "testing the changes"
 
 git push -u origin master
 ```
+
+*DONE with Github*

@@ -2,16 +2,11 @@
 
 ![Components of Cassandra](./images/git-logo.png)
 
-## Clone the existing repositoty
+## USE CASES
 
-```bash
-git clone <CLONE_URL>
+[Home](https://github.com/JinnaBalu/GitCheatSheet#clone-the-existing-repositoty)
 
-# Example
-git clone https://github.com/JinnaBalu/GitCheatSheet.git
-```
-
-## Init the local git
+[git init](https://github.com/JinnaBalu/GitCheatSheet#clone-the-existing-repositoty)
 
 ```bash
 git init

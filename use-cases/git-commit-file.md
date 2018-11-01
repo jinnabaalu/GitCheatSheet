@@ -41,7 +41,7 @@ git commit -am "hello world changes"
 ## Push
 
 ```bash
-git push -u origin master
+git push -u origin branchName
 
 # OR
 

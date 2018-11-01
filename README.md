@@ -9,35 +9,9 @@
 - [git push with ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md#setup-git-push-with-ssh)
 - [push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)
 - [create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)
-[- branch management]()
+[- branch management](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/branch-mangement.md#single-branch-for-production-and-development)
 - [common git commands](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/commonly-used-commands.md#common-commands-using-git)
 - [delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)
-
-## GIT MERGE
-
-Merging changes from feature_branch to develop
-
-1. Get latest from develop and merge to feature_branch
-
-```bash
-git checkout develop
-
-git pull
-
-git checkout feature_branch 
-
-git merge --no-ff origin develop
-```
-
-**Note : To be safe from conflict with develop(GOOD PRACTICE), we will resolve in feature_branch**
-
-2. Merge feature_branch to develop
-
-```bash
-git checkout develop 
-
-git merge --no-ff origin feature_branch 
-```
 
 ## GIT RESET
 

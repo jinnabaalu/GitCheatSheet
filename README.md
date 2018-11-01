@@ -14,4 +14,4 @@
 - [delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)
 - [git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)
 - [git reset](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/reset.md#git-reset)
-- [git for project leads/manager]()
+- [git for project leads/manager](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-for-manager-lead.md#git-for-project-leadmanager)

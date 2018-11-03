@@ -14,7 +14,7 @@
 - [git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)
 - [git reset](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/reset.md#git-reset)
 - [git for project leads/manager](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-for-manager-lead.md#git-for-project-leadmanager)
-- [switch remote url from HTTPS to SSH]()
+- [switch remote url from HTTPS to SSH](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/switch-remote-url-http-ssh.md#switching-remote-urls-from-https-to-ssh)
 
 
 ### SSH association with repository

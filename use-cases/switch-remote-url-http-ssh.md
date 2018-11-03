@@ -9,7 +9,7 @@
 git remote -v
 ```
 
-> O/P 
+> O/P
 
 > origin	git@github.com:JinnaBalu/jinnabalu.github.io.git (fetch)
 > origin	git@github.com:JinnaBalu/jinnabalu.github.io.git (push)

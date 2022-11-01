@@ -8,7 +8,7 @@
 git checkout master
 ```
 
-> Note : This could be done in any branch. For this example, *master* branch is used.
+> Note: This could be done in any branch. For this example, the *master* branch is used.
 
 #### **Step 2** -  Get the commits history
 
@@ -16,7 +16,7 @@ git checkout master
 git log
 ```
 
-You will end up with list of commits that you made as follows.
+You will end up with a list of commits that you made as follows.
 
 ![logs](https://user-images.githubusercontent.com/22785263/47548190-d2dc6580-d915-11e8-8591-c470511ddae0.PNG)
 
@@ -24,9 +24,9 @@ You will end up with list of commits that you made as follows.
 
 **Step 3.1** - Copy the commit-hash that you want to reset
 
-All the commits that top of the selected commit-hash (not including the enterd commit-hash), will be deleted.
+All the commits that top of the selected commit-hash (not including the entered commit-hash), will be deleted.
 
-**Step 3.2** - Hard reset to go back to early stage
+**Step 3.2** - Hard reset to go back to the early stage
 
 ```bash
 git reset <commit-hash> --hard
@@ -38,6 +38,6 @@ git reset <commit-hash> --hard
 git push <remote> master --force
 ```
 
-`<remote>` can be any remote, `origin` is the default.
+`<remote>` can be `origin` is the default.
 
-> NOTE : Be careful when removing the previous commits, there is no going back once you did these changes.
+> NOTE: Be careful when removing the previous commits, there is no going back once you did these changes.

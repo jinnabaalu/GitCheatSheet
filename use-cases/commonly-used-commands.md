@@ -17,7 +17,7 @@ git log -p <file_name>
 git log -p README.md
 ```
 
-##### Commit hitory by user
+##### Commit history by user
 
 ```bash
 git blame <file_name>
@@ -28,19 +28,19 @@ git blame README.md
 
 ## Branches
 
-##### List all local brnahces
+##### List all local branches
 
 ```bash
 git branch
 ```
 
-##### List all local and remote brnahces
+##### List all local and remote branches
 
 ```bash
 git branch -av
 ```
 
-##### Switch to existing branch
+##### Switch to an existing branch
 
 ```bash
 git checkout <branch_name>
@@ -58,7 +58,7 @@ git checkout -b <brach_name>
 git checkout -b jinnabalu/myNewBranchName
 ```
 
-##### Delete local branch
+##### Delete the local branch
 
 ```bash
 git branch -d <branch_name>
@@ -82,7 +82,7 @@ git push origin --delete jinnabalu/myNewBranchName
 ## Pull and Push
 
 
-##### Get latest from remote
+##### Get the latest from remote
 
 pull: gets latest pushed by someone to the branch
 
@@ -92,7 +92,7 @@ git pull
 
 ##### Push local changes
 
-push: push local cahnges to the remote branch
+push: push local changes to the remote branch
 
 ```bash
 git push -u origin <branch_name>

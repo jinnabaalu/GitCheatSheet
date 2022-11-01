@@ -2,7 +2,7 @@
 
 ## List existing URLs
 
-- List your existing remotes in order to get the name of the remote you want to change.
+- List your existing remotes to get the name of the remote you want to change.
 
 
 ```code

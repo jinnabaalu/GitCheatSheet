@@ -1,24 +1,24 @@
-# Create branch
+# Create Branch
 
-## Checkout to main branch
+## Checkout to the upstream branch
 
 ```bash
 git checkout develop
 ```
 
-## Pull Letest
+## Pull Latest
 
 ```bash
 git pull
 ```
 
-## Create new branch
+## Create a new branch
 
 ```bash
-git checkout -b jinnabalu/brnachName
+git checkout -b jinnabalu/branchName
 ```
 
-`jinnabalu`: user name of the github, to recognize the user by branch name easily when working with team
+`jinnabalu`: the user name of the GitHub, to recognize the user by branch name easily when working with the team
 
-`branchName`: brnachName for readability we maintain [NamingConvension](https://github.com/JinnaBalu/GitCheatSheet/blob/master/NamingConvension.md#naming-convention-for-programming) for naming the branch.
+`branchName`: branchName for readability we maintain [NamingConvension](https://github.com/JinnaBalu/GitCheatSheet/blob/master/NamingConvension.md#naming-convention-for-programming) for naming the branch.
 

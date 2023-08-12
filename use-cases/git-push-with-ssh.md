@@ -9,9 +9,9 @@ ssh-keygen -t rsa -C "your_github_email@example.com"
 > Note : In local machines we may have multiple ssh keys, better to create the specific rsa. 
 > Example : Enter file in which to save the key `(/home/ubuntu/.ssh/id_rsa): /home/ubuntu/.ssh/github_rsa`
 
-```bash
-O/P:
+**Output**
 
+```bash
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/ubuntu/.ssh/id_rsa): /home/ubuntu/.ssh/github_rsa
 Enter passphrase (empty for no passphrase): 
@@ -42,8 +42,9 @@ The key's randomart image is:
  cat /home/ubuntu/.ssh/github_rsa.pub
 ```
 
-> O/P
-> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/iLoHDq+6Bz5m5ED1TezxtCeW4U7eZueEqFX2eMo/BRQLVLzIMP7YyiYBR0xX57MgQ4cVodJV8pM0PYrSGSI1lQ5POSMrY4RDrH+KCVbLpifZAjaI94IKJtjnRm9eynk11g9DCg3z+OlxXmBBs1AO/zzqBXBoekfU753bD4u1yhycHiq6Iis9B2FHbV1Yov9ofswnZxh/xX7gXghLo4bdjpwfgDCRlUl4VUf7AeMY3ACwYsiEs1P6R0d1SUITgkP8D6pjmaxbroWLex43wkUxuS+nKJ9/kw7AmWnupBrUi0gfYzNwJI55vkOyhCF7 ********@outlook.com
+**Output**
+```bash ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/iLoHDq+6Bz5m5ED1Tkujhvh6765rgb hgdtgfgvhthy5htd65t4tgo8uezxtCeW4U7eZueEqFX2eMo/+KCVbLpifZAjaI94IKJtjnRm9eynk11g9DCg3z+OlxXmBBs1AO/zzqBXBoekfU753bD4u1yhycHiq6Iis9B2FHbV1Yov9ofswnZxh/xX7gXghLo4bdjpwfgDCRlUl4VUf7AeMY3ACwYsiEs1P6R0d1SUITgkP8D6pjmaxbroWLex43wkUxuS+nKJ9/kw7AmWnupBrUi0gfYzNwJI55vkOyhCF7 ********@outlook.com
+```
 
 ### 2. Go to github [account settings](https://github.com/settings/keys) page
 

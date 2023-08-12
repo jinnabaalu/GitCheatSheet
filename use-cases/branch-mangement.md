@@ -1,10 +1,10 @@
-# Single branch for production and development
+# Branch Management
 
 Consider *master* branch as the single branch for both prod and dev
 
 ## Steps to create a branch and merge the branch to master
 
-#### **Step 1** checkout to master and create a branch
+### **Step 1** checkout to master and create a branch
 
 ```bash
 git checkout master
@@ -17,7 +17,7 @@ JinnaBalu/Sample - branch name, choose as you like
 > NOTE: Good practice to follow some Naming Convention to create branch names but not mandatory
 > JinnaBalu is the github user name and JinnaBalu/Sample is the branch name**
 
-#### **Step 2** -  As you are done with some changes to the code, follow
+### **Step 2** -  As you are done with some changes to the code, follow
 
 ```bash
 git status
@@ -33,7 +33,7 @@ git push -u origin JinnaBalu/Sample
 
 **-a** = all, **m** = message, push all your changes to your remote or origin branch
 
-#### Step 3 - Merge the newly created branch to master
+### Step 3 - Merge the newly created branch to master
 
 **Step 3.1** - Get the latest from the master, considering that contributors are more than one member
 

@@ -6,14 +6,14 @@
 
 | **Git for developer** |  **Git for Operations**|
 |--|--|
-|[git config](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-configure.md) | [Git Commands for DevOps](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/operations-git-commands.md) |
-|[git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md)|  |
+|[git config](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-configure.md) | [git commands for devops](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/operations-git-commands.md) |
+|[git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md)| [common git commands](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/commonly-used-commands.md#common-commands-using-git)  |
 |[generate ssh key](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md)|  |
 |[create the repository in github(remote repository)](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-remote-repo.md)|  |
 |[instructions to push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)|  |
 |[create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)|  |
 |[branch management](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/branch-mangement.md#single-branch-for-production-and-development)|  |
-|[common git commands](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/commonly-used-commands.md#common-commands-using-git)|  |
+
 |[delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)|  |
 |[git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)|  |
 |[git reset](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/reset.md#git-reset)|  |

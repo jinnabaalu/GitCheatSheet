@@ -11,9 +11,13 @@
 - [git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md)
 - [generate ssh key](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md)
 - [create the repository in github(remote repository)](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-remote-repo.md)
-- [push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)
+
+- [instructions to push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)
+
 - [create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)
+
 - [branch management](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/branch-mangement.md#single-branch-for-production-and-development)
+
 - [common git commands](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/commonly-used-commands.md#common-commands-using-git)
 - [delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)
 - [git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)

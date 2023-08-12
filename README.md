@@ -13,7 +13,6 @@
 |[instructions to push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)|  |
 |[create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)|  |
 |[branch management](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/branch-mangement.md#single-branch-for-production-and-development)|  |
-
 |[delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)|  |
 |[git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)|  |
 |[git reset](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/reset.md#git-reset)|  |

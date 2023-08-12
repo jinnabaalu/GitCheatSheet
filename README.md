@@ -9,8 +9,8 @@
 - [git config](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-configure.md)
 
 - [git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md)
-- [](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md)
-- [create the repository in github(remote repository)]()
+- [git push with ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md)
+- [create the repository in github(remote repository)](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-remote-repo.md)
 - [push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)
 
 - [create new branch](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/create-branch.md#create-branch)

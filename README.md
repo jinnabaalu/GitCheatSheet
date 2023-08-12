@@ -17,12 +17,12 @@
 
 ## Naming conventions  for branch names or any programming language
 
-**UpperCamelCase** - CamelCase - Ex: JinnaBalu 
+- **UpperCamelCase** - `CamelCase` - Ex: `JinnaBalu`
 
-**lowerCamelCase** - camelCase(pascalCase) - Ex: jinnaBalu
+- **lowerCamelCase** - `camelCase` (`pascalCase`) - Ex: `jinnaBalu`
 
-**SnakeCase** - snake_case (lower_case_with_underscores) - Ex: jinna_balu
-
-              - CAPITALIZED_WITH_UNDERSCORES
+- **SnakeCase** 
+    - `snake_case` (`lower_case_with_underscores`) - Ex: `jinna_balu`
+    - `CAPITALIZED_WITH_UNDERSCORES`
               
-**kebab-case or lisp-case** - kebeb-case(hyphen-case) - Ex: jinna-balu
+- **kebab-case or lisp-case** - `kebeb-case`(`hyphen-case`) - Ex: `jinna-balu``

@@ -16,3 +16,16 @@
 |[delete commits](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/delete-commits.md#remove-the-last-commitcommits-using-reset)|  |
 |[git merge](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-merge.md#git-merge)|  |
 |[git reset](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/reset.md#git-reset)|  |
+
+
+## Naming conventions  for branch names or any programming language
+
+**UpperCamelCase** - CamelCase - Ex: JinnaBalu 
+
+**lowerCamelCase** - camelCase(pascalCase) - Ex: jinnaBalu
+
+**SnakeCase** - snake_case (lower_case_with_underscores) - Ex: jinna_balu
+
+              - CAPITALIZED_WITH_UNDERSCORES
+              
+**kebab-case or lisp-case** - kebeb-case(hyphen-case) - Ex: jinna-balu

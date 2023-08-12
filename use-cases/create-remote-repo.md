@@ -43,4 +43,4 @@ You have come here, hopefully you already have the account. These are very basic
     git push -u origin main
     ```
 
-> Note: While executing the above command you need to be aware of the `https` or `git` URL for pushing the changes. Initially use the `https` url only. If you still face issues [git-push-with-ssh](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-push-with-ssh.md) 
+> Note: While executing the above command you need to be aware of the `https` or `git` URL for pushing the changes. Initially use the `https` url only. If you still face issues [generate-ssh-key](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/generate-ssh-key.md) 

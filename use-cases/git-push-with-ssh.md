@@ -47,7 +47,7 @@ The key's randomart image is:
 
 ### 2. Go to github [account settings](https://github.com/settings/keys) page
 
-[![Github Settings](../images/git_settings_ssh_keys.png)](https://github.com/settings/keys)
+[![Add SSH Key](../images/add-ssh-key.jpg)](https://github.com/settings/keys)
 
 ### 3. Click on [![New SSH key](../images/new_ssh_key.png)](https://github.com/settings/ssh/new)
 
@@ -59,33 +59,12 @@ The key's randomart image is:
 ssh -T git@github.com
 ```
 
-> O/P
-> The authenticity of host 'github.com (192.30.253.113)' can't be established.
+*Output:*
+ 
+```bash
+The authenticity of host 'github.com (192.30.253.113)' can't be established.
 RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
 Hi JinnaBalu! You've successfully authenticated, but GitHub does not provide shell access.
-
-### 6. Update the Remote URL of the repository with the ssh url in place of https
-
-- Copy the url from the ![clone repository](../images/clone_repo.png) button with ssh
-
-- Copy Clone with ssh URL - Clock *Use SSH* as in first screenshot
-
-![click_use_ssh](../images/click_use_ssh.png) ![copy_ssh_url](../images/copy_ssh_url.png)
-
-```bash
- git remote set-url origin git@github.com:JinnaBalu/GitCheatSheet.git
 ```
-
-### 7. Test pushing with ssh
-
-```bash
-git add --all
-
-git commit -am "testing the changes"
-
-git push -u origin master
-```
-
-*DONE with Github*

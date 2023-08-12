@@ -4,6 +4,9 @@
 
 ## USE CASES
 
+### Git for Developers
+
+- [git config](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md#git-configure)
 - [home](https://github.com/JinnaBalu/GitCheatSheet#clone-the-existing-repositoty)
 - [git init](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-init.md#git-init)
 - [push local changes to repository](https://github.com/JinnaBalu/GitCheatSheet/blob/master/use-cases/git-commit-file.md#committing-files)

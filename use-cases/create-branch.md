@@ -33,6 +33,8 @@ git checkout develop
 
 ## Pull Latest
 
+- Get latest changes because there might be changes pushed by some other developers from your last pull. 
+
 ```bash
 git pull
 ```

@@ -2,7 +2,7 @@
 
 - Create the directory 
 - Change to directory
-- Initialize the directory with git and check for hiden folders in the directory
+- Initialize the directory with git and check for hidden folders in the directory
 
 
 `git init`, to initiate the current directory to connect to the version controlling system or any git server

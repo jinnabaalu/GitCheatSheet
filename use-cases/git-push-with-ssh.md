@@ -59,7 +59,7 @@ The key's randomart image is:
 ssh -T git@github.com
 ```
 
-*Output:*
+**Output:**
  
 ```bash
 The authenticity of host 'github.com (192.30.253.113)' can't be established.

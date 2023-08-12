@@ -3,8 +3,12 @@
 ## Generate SSH KEY with ssh-keygen
 
 ```bash
+# Don't enter the passphrase while executing if really don't understand for now
+
 ssh-keygen -t rsa -C "your_github_email@example.com"
 ```
+
+
 
 > Note : In local machines we may have multiple ssh keys, better to create the specific rsa. 
 > Example : Enter file in which to save the key `(/home/ubuntu/.ssh/id_rsa): /home/ubuntu/.ssh/github_rsa`

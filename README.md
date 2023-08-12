@@ -1,7 +1,4 @@
 # Git Cheat Sheet
-
-![Git Cheatsheet](./images/git-logo.png)
-
 ## USE CASES
 
 | **Git for developer** |  **Git for Operations**|

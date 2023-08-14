@@ -1,4 +1,9 @@
 # Git Cheat Sheet
+- [Introduction](https://github.com/JinnaBalu/GitCheatSheet/tree/master#introduction)
+- [Use-cases](https://github.com/JinnaBalu/GitCheatSheet/tree/master#use-cases)
+- [Blogs](https://github.com/JinnaBalu/GitCheatSheet/tree/master#blogs)
+
+## Introduction
 
 There are many questions or use cases we come across in our day to day activity,
 like
@@ -62,8 +67,8 @@ alone explains each topic from scratch.
 - **kebab-case or lisp-case** - `kebeb-case`(`hyphen-case`) - Ex: `jinna-balu``
 
  
-### Blogs in Medium 
-
+### Blogs
+- [Git vs Github/Bitbucket/Gitlab](https://jinnabalu.medium.com/git-vs-github-bitbucket-gitlab-1e4c064789a0)
 - [Decentralized but centralized git vs GitHub/Bitbucket/GitLab?](https://jinnabalu.medium.com/git-vs-github-bitbucket-gitlab-1e4c064789a0)
 - [Initialize git local repository and push first commit to remote repository (github/bitbucket/gitlab)](https://jinnabalu.medium.com/is-git-a-must-have-skill-5f72ac8c5212)
 - Model of Branching (master, develop, feature, hotfix)
